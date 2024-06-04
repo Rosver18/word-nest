@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Dictionary Application</string>
+    <string-array name="people_names">
+        <item>Rosver</item>
+        <item>Manly</item>
+        <item>Elizah</item>
+    </string-array>
+</resources>
